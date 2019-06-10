@@ -28,7 +28,7 @@
     "rimraf": "^2.6.3",
     "socket.io": "^2.2.0",
     "socket.io-express-session": "^0.1.3",
-    "webtorrent": "^0.98.7"
+    "webtorrent": "^0.98.21"
   },
   "engines": {
     "node": "12.4.0"
