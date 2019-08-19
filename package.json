@@ -1,7 +1,7 @@
 {
-  "name": "google-drive-torrent",
+  "name": "UCN",
   "version": "1.0.0",
-  "description": "Downloads torrent files to google drive",
+  "description": "UCN",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
